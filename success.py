@@ -1,1 +1,1 @@
-i will make it
+print 'i will make it'
